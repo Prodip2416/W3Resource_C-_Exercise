@@ -1,0 +1,5 @@
+E:\LICT\W3Recourse\Conditional Statement\New folder\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+E:\LICT\W3Recourse\Conditional Statement\New folder\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+E:\LICT\W3Recourse\Conditional Statement\New folder\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+E:\LICT\W3Recourse\Conditional Statement\New folder\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+E:\LICT\W3Recourse\Conditional Statement\New folder\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb

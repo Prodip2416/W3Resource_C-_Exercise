@@ -1,0 +1,5 @@
+E:\LICT\W3Recourse\Conditional Statement\New folder\VowelConsonant\VowelConsonant\bin\Debug\VowelConsonant.exe.config
+E:\LICT\W3Recourse\Conditional Statement\New folder\VowelConsonant\VowelConsonant\bin\Debug\VowelConsonant.exe
+E:\LICT\W3Recourse\Conditional Statement\New folder\VowelConsonant\VowelConsonant\bin\Debug\VowelConsonant.pdb
+E:\LICT\W3Recourse\Conditional Statement\New folder\VowelConsonant\VowelConsonant\obj\Debug\VowelConsonant.exe
+E:\LICT\W3Recourse\Conditional Statement\New folder\VowelConsonant\VowelConsonant\obj\Debug\VowelConsonant.pdb
