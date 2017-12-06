@@ -1,0 +1,5 @@
+E:\LICT\W3Recourse\Conditional Statement\New folder\DayNumberInteger\DayNumberInteger\bin\Debug\DayNumberInteger.exe.config
+E:\LICT\W3Recourse\Conditional Statement\New folder\DayNumberInteger\DayNumberInteger\bin\Debug\DayNumberInteger.exe
+E:\LICT\W3Recourse\Conditional Statement\New folder\DayNumberInteger\DayNumberInteger\bin\Debug\DayNumberInteger.pdb
+E:\LICT\W3Recourse\Conditional Statement\New folder\DayNumberInteger\DayNumberInteger\obj\Debug\DayNumberInteger.exe
+E:\LICT\W3Recourse\Conditional Statement\New folder\DayNumberInteger\DayNumberInteger\obj\Debug\DayNumberInteger.pdb

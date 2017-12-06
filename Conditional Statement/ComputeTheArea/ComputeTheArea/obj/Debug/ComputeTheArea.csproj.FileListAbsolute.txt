@@ -1,0 +1,5 @@
+E:\LICT\W3Recourse\Conditional Statement\New folder\ComputeTheArea\ComputeTheArea\bin\Debug\ComputeTheArea.exe.config
+E:\LICT\W3Recourse\Conditional Statement\New folder\ComputeTheArea\ComputeTheArea\bin\Debug\ComputeTheArea.exe
+E:\LICT\W3Recourse\Conditional Statement\New folder\ComputeTheArea\ComputeTheArea\bin\Debug\ComputeTheArea.pdb
+E:\LICT\W3Recourse\Conditional Statement\New folder\ComputeTheArea\ComputeTheArea\obj\Debug\ComputeTheArea.exe
+E:\LICT\W3Recourse\Conditional Statement\New folder\ComputeTheArea\ComputeTheArea\obj\Debug\ComputeTheArea.pdb
