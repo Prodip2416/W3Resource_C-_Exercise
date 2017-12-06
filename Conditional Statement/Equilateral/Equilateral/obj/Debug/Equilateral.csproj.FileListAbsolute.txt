@@ -1,0 +1,5 @@
+E:\LICT\W3Recourse\Conditional Statement\New folder\Equilateral\Equilateral\bin\Debug\Equilateral.exe.config
+E:\LICT\W3Recourse\Conditional Statement\New folder\Equilateral\Equilateral\bin\Debug\Equilateral.exe
+E:\LICT\W3Recourse\Conditional Statement\New folder\Equilateral\Equilateral\bin\Debug\Equilateral.pdb
+E:\LICT\W3Recourse\Conditional Statement\New folder\Equilateral\Equilateral\obj\Debug\Equilateral.exe
+E:\LICT\W3Recourse\Conditional Statement\New folder\Equilateral\Equilateral\obj\Debug\Equilateral.pdb

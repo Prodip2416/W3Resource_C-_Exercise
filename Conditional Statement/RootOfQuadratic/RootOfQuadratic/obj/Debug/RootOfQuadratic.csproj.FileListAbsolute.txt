@@ -1,0 +1,6 @@
+E:\LICT\W3Recourse\Conditional Statement\New folder\RootOfQuadratic\RootOfQuadratic\bin\Debug\RootOfQuadratic.exe.config
+E:\LICT\W3Recourse\Conditional Statement\New folder\RootOfQuadratic\RootOfQuadratic\bin\Debug\RootOfQuadratic.exe
+E:\LICT\W3Recourse\Conditional Statement\New folder\RootOfQuadratic\RootOfQuadratic\bin\Debug\RootOfQuadratic.pdb
+E:\LICT\W3Recourse\Conditional Statement\New folder\RootOfQuadratic\RootOfQuadratic\obj\Debug\RootOfQuadratic.csprojResolveAssemblyReference.cache
+E:\LICT\W3Recourse\Conditional Statement\New folder\RootOfQuadratic\RootOfQuadratic\obj\Debug\RootOfQuadratic.exe
+E:\LICT\W3Recourse\Conditional Statement\New folder\RootOfQuadratic\RootOfQuadratic\obj\Debug\RootOfQuadratic.pdb

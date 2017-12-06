@@ -1,0 +1,5 @@
+E:\LICT\W3Recourse\Conditional Statement\New folder\ProfitandLoss\ProfitandLoss\bin\Debug\ProfitandLoss.exe.config
+E:\LICT\W3Recourse\Conditional Statement\New folder\ProfitandLoss\ProfitandLoss\bin\Debug\ProfitandLoss.exe
+E:\LICT\W3Recourse\Conditional Statement\New folder\ProfitandLoss\ProfitandLoss\bin\Debug\ProfitandLoss.pdb
+E:\LICT\W3Recourse\Conditional Statement\New folder\ProfitandLoss\ProfitandLoss\obj\Debug\ProfitandLoss.exe
+E:\LICT\W3Recourse\Conditional Statement\New folder\ProfitandLoss\ProfitandLoss\obj\Debug\ProfitandLoss.pdb
