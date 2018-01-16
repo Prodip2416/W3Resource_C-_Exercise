@@ -1,0 +1,5 @@
+E:\LICT\W3Recourse\Loop\SumAndAverage\SumAndAverage\bin\Debug\SumAndAverage.exe.config
+E:\LICT\W3Recourse\Loop\SumAndAverage\SumAndAverage\bin\Debug\SumAndAverage.exe
+E:\LICT\W3Recourse\Loop\SumAndAverage\SumAndAverage\bin\Debug\SumAndAverage.pdb
+E:\LICT\W3Recourse\Loop\SumAndAverage\SumAndAverage\obj\Debug\SumAndAverage.exe
+E:\LICT\W3Recourse\Loop\SumAndAverage\SumAndAverage\obj\Debug\SumAndAverage.pdb

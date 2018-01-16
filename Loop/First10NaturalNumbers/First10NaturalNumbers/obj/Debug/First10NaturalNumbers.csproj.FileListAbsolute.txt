@@ -1,0 +1,6 @@
+E:\LICT\W3Recourse\Loop\First10NaturalNumbers\First10NaturalNumbers\bin\Debug\First10NaturalNumbers.exe.config
+E:\LICT\W3Recourse\Loop\First10NaturalNumbers\First10NaturalNumbers\bin\Debug\First10NaturalNumbers.exe
+E:\LICT\W3Recourse\Loop\First10NaturalNumbers\First10NaturalNumbers\bin\Debug\First10NaturalNumbers.pdb
+E:\LICT\W3Recourse\Loop\First10NaturalNumbers\First10NaturalNumbers\obj\Debug\First10NaturalNumbers.csprojResolveAssemblyReference.cache
+E:\LICT\W3Recourse\Loop\First10NaturalNumbers\First10NaturalNumbers\obj\Debug\First10NaturalNumbers.exe
+E:\LICT\W3Recourse\Loop\First10NaturalNumbers\First10NaturalNumbers\obj\Debug\First10NaturalNumbers.pdb

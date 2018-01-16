@@ -1,0 +1,5 @@
+E:\LICT\W3Recourse\Loop\SumFirst10NaturalNumbers\SumFirst10NaturalNumbers\bin\Debug\SumFirst10NaturalNumbers.exe.config
+E:\LICT\W3Recourse\Loop\SumFirst10NaturalNumbers\SumFirst10NaturalNumbers\bin\Debug\SumFirst10NaturalNumbers.exe
+E:\LICT\W3Recourse\Loop\SumFirst10NaturalNumbers\SumFirst10NaturalNumbers\bin\Debug\SumFirst10NaturalNumbers.pdb
+E:\LICT\W3Recourse\Loop\SumFirst10NaturalNumbers\SumFirst10NaturalNumbers\obj\Debug\SumFirst10NaturalNumbers.exe
+E:\LICT\W3Recourse\Loop\SumFirst10NaturalNumbers\SumFirst10NaturalNumbers\obj\Debug\SumFirst10NaturalNumbers.pdb

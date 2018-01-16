@@ -1,0 +1,6 @@
+E:\LICT\W3Recourse\Loop\NTermsNaturalNumberAndTheirSum\NTermsNaturalNumberAndTheirSum\bin\Debug\NTermsNaturalNumberAndTheirSum.exe.config
+E:\LICT\W3Recourse\Loop\NTermsNaturalNumberAndTheirSum\NTermsNaturalNumberAndTheirSum\bin\Debug\NTermsNaturalNumberAndTheirSum.exe
+E:\LICT\W3Recourse\Loop\NTermsNaturalNumberAndTheirSum\NTermsNaturalNumberAndTheirSum\bin\Debug\NTermsNaturalNumberAndTheirSum.pdb
+E:\LICT\W3Recourse\Loop\NTermsNaturalNumberAndTheirSum\NTermsNaturalNumberAndTheirSum\obj\Debug\NTermsNaturalNumberAndTheirSum.exe
+E:\LICT\W3Recourse\Loop\NTermsNaturalNumberAndTheirSum\NTermsNaturalNumberAndTheirSum\obj\Debug\NTermsNaturalNumberAndTheirSum.pdb
+E:\LICT\W3Recourse\Loop\NTermsNaturalNumberAndTheirSum\NTermsNaturalNumberAndTheirSum\obj\Debug\NTermsNaturalNumberAndTheirSum.csprojResolveAssemblyReference.cache
