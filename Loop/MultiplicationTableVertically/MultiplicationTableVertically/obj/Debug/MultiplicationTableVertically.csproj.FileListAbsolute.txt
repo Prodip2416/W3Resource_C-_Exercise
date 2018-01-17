@@ -1,0 +1,5 @@
+E:\LICT\W3Recourse\Loop\MultiplicationTableVertically\MultiplicationTableVertically\bin\Debug\MultiplicationTableVertically.exe.config
+E:\LICT\W3Recourse\Loop\MultiplicationTableVertically\MultiplicationTableVertically\bin\Debug\MultiplicationTableVertically.exe
+E:\LICT\W3Recourse\Loop\MultiplicationTableVertically\MultiplicationTableVertically\bin\Debug\MultiplicationTableVertically.pdb
+E:\LICT\W3Recourse\Loop\MultiplicationTableVertically\MultiplicationTableVertically\obj\Debug\MultiplicationTableVertically.exe
+E:\LICT\W3Recourse\Loop\MultiplicationTableVertically\MultiplicationTableVertically\obj\Debug\MultiplicationTableVertically.pdb

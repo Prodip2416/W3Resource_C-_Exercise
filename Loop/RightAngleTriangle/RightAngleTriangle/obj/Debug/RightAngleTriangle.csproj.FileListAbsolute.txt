@@ -1,0 +1,5 @@
+E:\LICT\W3Recourse\Loop\RightAngleTriangle\RightAngleTriangle\bin\Debug\RightAngleTriangle.exe.config
+E:\LICT\W3Recourse\Loop\RightAngleTriangle\RightAngleTriangle\bin\Debug\RightAngleTriangle.exe
+E:\LICT\W3Recourse\Loop\RightAngleTriangle\RightAngleTriangle\bin\Debug\RightAngleTriangle.pdb
+E:\LICT\W3Recourse\Loop\RightAngleTriangle\RightAngleTriangle\obj\Debug\RightAngleTriangle.exe
+E:\LICT\W3Recourse\Loop\RightAngleTriangle\RightAngleTriangle\obj\Debug\RightAngleTriangle.pdb

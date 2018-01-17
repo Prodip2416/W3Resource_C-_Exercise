@@ -1,0 +1,5 @@
+E:\LICT\W3Recourse\Loop\RightAngleTriangleWithNumber\RightAngleTriangleWithNumber\bin\Debug\RightAngleTriangleWithNumber.exe.config
+E:\LICT\W3Recourse\Loop\RightAngleTriangleWithNumber\RightAngleTriangleWithNumber\bin\Debug\RightAngleTriangleWithNumber.exe
+E:\LICT\W3Recourse\Loop\RightAngleTriangleWithNumber\RightAngleTriangleWithNumber\bin\Debug\RightAngleTriangleWithNumber.pdb
+E:\LICT\W3Recourse\Loop\RightAngleTriangleWithNumber\RightAngleTriangleWithNumber\obj\Debug\RightAngleTriangleWithNumber.exe
+E:\LICT\W3Recourse\Loop\RightAngleTriangleWithNumber\RightAngleTriangleWithNumber\obj\Debug\RightAngleTriangleWithNumber.pdb

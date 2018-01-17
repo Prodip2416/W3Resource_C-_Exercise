@@ -1,0 +1,6 @@
+E:\LICT\W3Recourse\Loop\MultiplicationTable\MultiplicationTable\bin\Debug\MultiplicationTable.exe.config
+E:\LICT\W3Recourse\Loop\MultiplicationTable\MultiplicationTable\bin\Debug\MultiplicationTable.exe
+E:\LICT\W3Recourse\Loop\MultiplicationTable\MultiplicationTable\bin\Debug\MultiplicationTable.pdb
+E:\LICT\W3Recourse\Loop\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.csprojResolveAssemblyReference.cache
+E:\LICT\W3Recourse\Loop\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.exe
+E:\LICT\W3Recourse\Loop\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.pdb

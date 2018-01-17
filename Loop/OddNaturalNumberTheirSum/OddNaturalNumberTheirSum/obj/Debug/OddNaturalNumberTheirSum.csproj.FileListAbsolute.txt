@@ -1,0 +1,5 @@
+E:\LICT\W3Recourse\Loop\OddNaturalNumberTheirSum\OddNaturalNumberTheirSum\bin\Debug\OddNaturalNumberTheirSum.exe.config
+E:\LICT\W3Recourse\Loop\OddNaturalNumberTheirSum\OddNaturalNumberTheirSum\obj\Debug\OddNaturalNumberTheirSum.exe
+E:\LICT\W3Recourse\Loop\OddNaturalNumberTheirSum\OddNaturalNumberTheirSum\obj\Debug\OddNaturalNumberTheirSum.pdb
+E:\LICT\W3Recourse\Loop\OddNaturalNumberTheirSum\OddNaturalNumberTheirSum\bin\Debug\OddNaturalNumberTheirSum.exe
+E:\LICT\W3Recourse\Loop\OddNaturalNumberTheirSum\OddNaturalNumberTheirSum\bin\Debug\OddNaturalNumberTheirSum.pdb
